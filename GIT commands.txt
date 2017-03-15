@@ -6,3 +6,6 @@ git push URL master----push on remote repository
 github userid&password
 
 by default branch----Master
+
+Created a new branch in GIT
+Name: Feature1
