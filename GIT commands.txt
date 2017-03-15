@@ -1,0 +1,8 @@
+git init
+git pull URL----pulling the contents
+git add BankApplication_TDD
+git commit -m "Bank Application using gradle"
+git push URL master----push on remote repository
+github userid&password
+
+by default branch----Master
